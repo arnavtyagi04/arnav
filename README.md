@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Tyagi</h1>
 <h3 align="center">Machine Learning Learner | Data & ML Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm Arnav Tyagi</h1>
-<h3 align="center">Machine Learning Learner | Data & ML Enthusiast</h3>
+
 
 ---
 

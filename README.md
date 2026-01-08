@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="ChatGPT Image Jan 8, 2026, 06_53_56 PM.png" width="180" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Arnav Tyagi</h1>
+<h3 align="center">Machine Learning Learner | Data & ML Enthusiast</h3>
+
 <h1 align="center">Hi 👋, I'm Arnav Tyagi</h1>
 <h3 align="center">Machine Learning Learner | Data & ML Enthusiast</h3>
 

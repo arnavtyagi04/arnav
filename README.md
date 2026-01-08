@@ -1,62 +1,41 @@
 <h1 align="center">Hi 👋, I'm Arnav Tyagi</h1>
-<h3 align="center">Entry-Level Machine Learning Engineer | AI & Data Enthusiast</h3>
+<h3 align="center">Machine Learning Learner | Data & ML Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech in Computer Science (2021–2025), New Delhi
-- 🤖 Entry-level Machine Learning / AI Engineer with strong foundations in supervised learning
-- 📊 Hands-on experience with real-world datasets, EDA, feature engineering, and model evaluation
-- 🧠 Interested in building interpretable and practical ML solutions
-- 📍 Based in New Delhi, India
-- 📫 Reach me at: **arnavanujtyagi@gmail.com**
+## 👋 About Me
+I am a Computer Science undergraduate with a strong interest in Machine Learning and data-driven problem solving.  
+I enjoy understanding how ML models work internally and applying them to real-world datasets in a clear and interpretable way.
+
+- 🎓 B.Tech in Computer Science (2021–2025), New Delhi  
+- 📊 Actively learning and practicing Machine Learning concepts  
+- 🧠 Focused on fundamentals, not shortcuts  
+- 📍 New Delhi, India  
+- 📫 **Email:** arnavanujtyagi@gmail.com  
 
 ---
 
-### 🧠 Core ML Focus
+## 🧠 Machine Learning Focus
 - Supervised Learning (Regression & Classification)
-- Decision Trees & Random Forests
-- Model Evaluation (Accuracy, Precision, Recall, F1-score)
+- Decision Trees and Ensemble Models
 - Feature Engineering & Data Preprocessing
-- End-to-end ML workflows (problem → model → evaluation)
+- Model Evaluation and Validation
+- End-to-end ML workflow understanding
 
 ---
 
-### 🛠️ Tools & Technologies
-- **Machine Learning:** scikit-learn
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Notebooks:** Jupyter Notebook
-- **Databases:** SQL, DBMS fundamentals
-- **Version Control:** Git & GitHub (basic)
+## 🛠️ What I Work With
+- Machine Learning concepts & workflows
+- Structured datasets and exploratory analysis
+- Model interpretation and performance analysis
 
 ---
 
-### 📂 Projects
-- 📈 **Sales Forecasting Model**  
-  Built a forecasting model using Python & scikit-learn with feature selection and evaluation to support business planning.
-
-- 🧑‍💼 **Facial Recognition Attendance System**  
-  Developed a real-time facial recognition system using DeepFace with improved identification accuracy.
-
-- 📊 **Interactive Business Performance Dashboard**  
-  Cleaned and analyzed multiple datasets and built Power BI dashboards for KPI tracking and insights.
+## 🚧 Current Status
+- Strengthening core ML fundamentals  
+- Practicing on small to medium datasets  
+- Gradually building well-documented projects  
 
 ---
 
-### 💼 Experience
-- **Data Analyst Intern – Cognifyz Technologies**  
-  Worked on data cleaning, SQL analysis, and Power BI dashboards to analyze customer and sales trends.
-
-- **Data Science Intern – CodSoft**  
-  Performed EDA, preprocessing, and built basic ML models for analytics-focused tasks.
-
----
-
-### 🎯 Currently Working On
-- Strengthening ML fundamentals through practice projects  
-- Improving model evaluation and interpretability  
-- Preparing for entry-level ML / Data roles  
-
----
-
-⚡ *Focused on learning ML the right way — concept first, practice next.*
+⚡ *Learning Machine Learning step by step, with clarity and consistency.*
